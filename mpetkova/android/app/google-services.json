@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354012701700",
+    "project_id": "rnapp-51489",
+    "storage_bucket": "rnapp-51489.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354012701700:android:353cd627fcf64c93b4c151",
+        "android_client_info": {
+          "package_name": "com.mpetkova"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9NkLEoYx_Qbh4se67EfcDmuM9XR_y4rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
